@@ -31,20 +31,6 @@
     font-weight: bold;
 }
 
-.videotitle{
-    padding-top: 3vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.video{
-    padding-top: 5vh;
-    padding-bottom: 10vh;
-    display: flex;
-    justify-content: center;
-}
-
 .card-my {
     margin-top: 5vh;
 }
