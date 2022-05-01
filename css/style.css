@@ -1,3 +1,4 @@
+
 .nav-my {
     background-color: rgb(7, 36, 60);
 }
@@ -6,6 +7,7 @@
     max-width: 80vw;
     display: flex;
     margin: auto;
+    padding-bottom: 3vh;
 }
 
 .edit {
@@ -29,11 +31,26 @@
     font-weight: bold;
 }
 
+.videotitle{
+    padding-top: 3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video{
+    padding-top: 5vh;
+    padding-bottom: 10vh;
+    display: flex;
+    justify-content: center;
+}
+
 .card-my {
     margin-top: 5vh;
 }
 
-.main {
+.main {    
+    background-color: rgb(237, 244, 248);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -76,13 +93,7 @@
   
 }
 
-.yt{
 
-    min-width: 60vw;
-    max-width: 60vw;
-    min-height: 60vh;
-    max-height: 60vh;
-}
 
 .imagetxt{
     padding-top: 5vh;
